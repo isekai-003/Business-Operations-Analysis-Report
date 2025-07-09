@@ -101,7 +101,7 @@ Discover Region and market performances influenced by Key metrics such as NS,NS%
 Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Error,NE%,ABS Error ,Also plot an Trendline over the Selected period of Net Error and Forecast Accuracy
 
   #### **👉 Execution View** 
-  <img width="608" alt="Executive View Snap" src="https://github.com/kishanchand9989/Business-Insights-360/assets/86097586/26f1a100-a81c-4f1c-b387-cdb01a8e9696">
+  <img width="608" alt="Executive View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Executive%20View.png">
 
 
  Evaluating departmental performance at a glance by  plotting Yearly Trends of KPI’s (GM %,NP%, Market share%), Market Share Trends etc.., which enables business leaders 
