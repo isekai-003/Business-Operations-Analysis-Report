@@ -76,26 +76,26 @@ Fact table : It will have the data about the transactions
 To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as  Sales, Finance, Marketing, Supply Chain, and Execution.
 
    #### **👉 Sales View**
-   <img width="682" alt="Sales View Snap" src="https://github.com/kishanchand9989/Business-Insights-360/assets/86097586/55a828e4-ab3b-499b-9858-16d4655a9dfe">
+   <img width="682" alt="Sales View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Sales%20View.png">
 
      
   Decode customer and product performances influenced by Key metrics such as Net Sales and Gross Margin Percentage ,make an performance matrix b/w NS and Np % for 
   market, customer as values ,then explore the Break down for Needful P & L values of Sales View such as Net Sales , COGS , Gross Marigin.
    
   #### **👉 Finance View**
-  <img width="699" alt="Finanace View Snap" src="https://github.com/kishanchand9989/Business-Insights-360/assets/86097586/45fd5905-8467-45c8-ac4b-1ba0c3ed3b0d">
+  <img width="699" alt="Finanace View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Finance%20View.png">
 
   
 Unveil an Profit and Loss Statements for financial performance across Markets Products,Customers and list down the Top and Bottom Products and Customer Net Sales
 
   #### **👉 Marketing View** 
-  <img width="761" alt="Marketing Snap View" src="https://github.com/kishanchand9989/Business-Insights-360/assets/86097586/69672013-26cb-4944-a5fe-e4e309fdc29d">
+  <img width="761" alt="Marketing Snap View" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Marketing%20View.png">
 
 
 Discover Region and market performances influenced by Key metrics such as NS,NS%,GM,GM% ,make an performance matrix b/w NS and GM % for segment, category as Values ,then explore the Break down of Needful P & L values for Marketing View such as Gross Marigin ,Operational Expenses  
 
   #### **👉 Supply Chain View** 
-  <img width="572" alt="Supply Chain View Snap" src="https://github.com/kishanchand9989/Business-Insights-360/assets/86097586/446369fe-0b8e-4340-9ed3-ff652b392fcf">
+  <img width="572" alt="Supply Chain View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Supply%20Chain%20View.png">
 
 
 Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Error,NE%,ABS Error ,Also plot an Trendline over the Selected period of Net Error and Forecast Accuracy
