@@ -111,7 +111,7 @@ Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Err
 
 
  
- **Interactive Dashoard Link**  [click here](https://app.powerbi.com/view?r=eyJrIjoiMzUyYjIwYjAtNzdkZi00YTlmLTk4MmItNGU0N2FmNmZiZWZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ **Interactive Dashoard Link**  [click here](https://app.powerbi.com/view?r=eyJrIjoiOGU3YTc5ZmEtNDY1MC00MTEyLWEwNWEtNzNiMmU2YmJkY2Y2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Conclusion :
 The dashboard has equipped AtliQ Hardware with the capability to assess sales trends across different departments and make decisions guided by data. Moreover, a notable/significant trend on consistent rise in Atliq  market share, witnessing a substantial growth from its initial share of less than 0.5% to an impressive 5.9%. This encouraging trajectory highlights AtliqQ increasing presence and competitiveness in the market
