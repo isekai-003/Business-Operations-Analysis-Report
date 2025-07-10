@@ -75,33 +75,35 @@ Fact table : It will have the data about the transactions
 ### Objective :
 To Deploy an advanced analytics solution for AtliQ Hardware to enhance data analysis efficiency. which will offer comprehensive insights tailored to meet the needs of business leaders across various domains, such as  Sales, Finance, Marketing, Supply Chain, and Execution.
 
+  #### **👉 Finance View**
+  <img width="699" alt="Finanace View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/d2f0e78faf474c25e70ced558fe5920bf8bdc4a8/Finance%20View.png">
+
+  
+  Unveil an Profit and Loss Statements for financial performance across Markets Products,Customers and list down the Top and Bottom Products and Customer Net Sales.
+  
    #### **👉 Sales View**
-   <img width="682" alt="Sales View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Sales%20View.png">
+   <img width="682" alt="Sales View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/d2f0e78faf474c25e70ced558fe5920bf8bdc4a8/Sales%20View.png">
 
      
   Decode customer and product performances influenced by Key metrics such as Net Sales and Gross Margin Percentage ,make an performance matrix b/w NS and Np % for 
   market, customer as values ,then explore the Break down for Needful P & L values of Sales View such as Net Sales , COGS , Gross Marigin.
    
-  #### **👉 Finance View**
-  <img width="699" alt="Finanace View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Finance%20View.png">
 
-  
-Unveil an Profit and Loss Statements for financial performance across Markets Products,Customers and list down the Top and Bottom Products and Customer Net Sales
 
   #### **👉 Marketing View** 
-  <img width="761" alt="Marketing Snap View" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Marketing%20View.png">
+  <img width="761" alt="Marketing Snap View" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/d2f0e78faf474c25e70ced558fe5920bf8bdc4a8/Marketing%20View.png">
 
 
 Discover Region and market performances influenced by Key metrics such as NS,NS%,GM,GM% ,make an performance matrix b/w NS and GM % for segment, category as Values ,then explore the Break down of Needful P & L values for Marketing View such as Gross Marigin ,Operational Expenses  
 
   #### **👉 Supply Chain View** 
-  <img width="572" alt="Supply Chain View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Supply%20Chain%20View.png">
+  <img width="572" alt="Supply Chain View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/d2f0e78faf474c25e70ced558fe5920bf8bdc4a8/Supply%20Chain%20View.png">
 
 
 Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Error,NE%,ABS Error ,Also plot an Trendline over the Selected period of Net Error and Forecast Accuracy
 
   #### **👉 Execution View** 
-  <img width="608" alt="Executive View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/93734a13161b45d0c972f36391cd058d79938b05/Executive%20View.png">
+  <img width="608" alt="Executive View Snap" src="https://github.com/isekai-003/Business-Operations-Analysis-Report/blob/d2f0e78faf474c25e70ced558fe5920bf8bdc4a8/Executive%20View.png">
 
 
  Evaluating departmental performance at a glance by  plotting Yearly Trends of KPI’s (GM %,NP%, Market share%), Market Share Trends etc.., which enables business leaders 
@@ -109,7 +111,7 @@ Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Err
 
 
  
- **Interactive Dashoard Link**  [click here](https://app.powerbi.com/view?r=eyJrIjoiMzUyYjIwYjAtNzdkZi00YTlmLTk4MmItNGU0N2FmNmZiZWZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ **Interactive Dashoard Link**  [click here](https://app.powerbi.com/view?r=eyJrIjoiOGU3YTc5ZmEtNDY1MC00MTEyLWEwNWEtNzNiMmU2YmJkY2Y2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Conclusion :
 The dashboard has equipped AtliQ Hardware with the capability to assess sales trends across different departments and make decisions guided by data. Moreover, a notable/significant trend on consistent rise in Atliq  market share, witnessing a substantial growth from its initial share of less than 0.5% to an impressive 5.9%. This encouraging trajectory highlights AtliqQ increasing presence and competitiveness in the market
